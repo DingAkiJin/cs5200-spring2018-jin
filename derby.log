@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Wed Jan 17 19:52:04 EST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-06c0-57e9-000003a33e70 
-on database directory memory:/Users/sweetpiggy/Documents/workspace-sts-3.9.2.RELEASE/cs5200-spring2018-jin/testdb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Tue Jan 30 15:05:56 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-48ad-0fbe-000003cb9e18 
+on database directory memory:/Users/sweetpiggy/Documents/cs5200-spring2018-jin/testdb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
 Loaded from file:/Users/sweetpiggy/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_121-b13
-user.dir=/Users/sweetpiggy/Documents/workspace-sts-3.9.2.RELEASE/cs5200-spring2018-jin
+user.dir=/Users/sweetpiggy/Documents/cs5200-spring2018-jin
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.12.2
